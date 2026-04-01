@@ -111,4 +111,4 @@ MIT. See [LICENSE](./LICENSE).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=RINNECODER/agentappflow&type=Date)](https://www.star-history.com/#RINNECODER/agentappflow&Date)
+[![Star History Chart](https://api.star-history.com/image?repos=RINNECODER/agentappflow&type=date&legend=top-left)](https://www.star-history.com/?repos=RINNECODER%2Fagentappflow&type=date&legend=top-left)
